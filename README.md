@@ -29,6 +29,3 @@ I enjoy building reliable data pipelines and converting raw data into meaningful
 - Senior Associate – Innova Market Insights
 - Senior Research Analyst – Merit Data & Technology
 
-##  Connect With Me
-
-- GitHub: [kishoreak1516-source](https://github.com/kishoreak1516-source)
